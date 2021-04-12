@@ -5,7 +5,7 @@
 
 Steps for executing the code: (All the comments are also properly mentioned inside the code)
 1. Go to google colab and upload the file "MeasEval_team7_code.ipynb".
-2. Go to "https://github.com/harperco/MeasEval", click on code (highlighted in green) and click on download zip.
+2. Go to "https://github.com/harperco/MeasEval", click on "Code" (highlighted in green) and click on download zip.
 3. Go to your Google Drive and inside the "Colab Notebooks" folder, upload the "MeasEval-main.zip" file downloaded in step 3.
 4. In the same Google Drive and inside the "Colab Notebooks" folder, manually create a "word_tsv" named folder.
 5. Run the first cell only once and then restart the runtime. After restarting the runtime, run from the next cell and onwards (not the first cell).
